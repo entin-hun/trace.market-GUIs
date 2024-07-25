@@ -1,5 +1,6 @@
 # Introduction
 
+Details of processes, products and contributions are often stored in siloes, therefore not available for stakeholders when they would need it. Therefore, we designed this system to store these information on an unbiased, future-proof common database, on permissionless blockchains, and represent each subject as ownable NFTs to eliminate cheating with quantities.
 * Single Source of Truth: Storing semantic statements securely on Swarm allows it to be referenced as a single source of truth. Stakeholders can build a comprehensive and interoperable knowledge graph.
 * NFT Metadata for Quality Attributes: Complex and detailed quality attributes of Real-World Assets can be made available and challengeable as NFT metadata.
 * New Paradigm for Stakeholders: Apps leveraging this system can provide enhanced transparency, traceability, and trust, benefiting all stakeholders involved.
