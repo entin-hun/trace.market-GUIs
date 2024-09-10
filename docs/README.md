@@ -31,10 +31,14 @@ In short, our protocol records immutably how things evolve infinitely, by contri
 ## Our system is most ideal for:
 
 * businesses (producers, resellers) dealing with **quality-made** products and **sustainable** practices (anti greenwashing and counterfeiting, expounded pricing), especially in most impactful verticals like:
-  * food and agri
-  * minerals {batteries, electronics, jewellery}
-  * textile
-  * construction and electricity
+  * Food and Agri
+  * Construction
+  * ..and where Digital Product Passports will soon be mandatory in the EU:
+    * Minerals {Aluminum, Iron and Steel, Electronics, Jewellery}
+    * Textiles (in part. garments & footwear)
+    * Furniture, including mattresses&#x20;
+    * Chemicals, Detergents, Paints, Lubricants, Tyres
+    * Energy related products
 * "get % from revenue" feature:
   * upstream producers (Fair-Trade)
   * inventors and developers

@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+  * [Our Peer-to-Peer Advantages](readme/our-peer-to-peer-advantages.md)
 
 ## For End Users
 

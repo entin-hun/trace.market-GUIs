@@ -1,11 +1,13 @@
 # Packaging Pages
 
-See products'
+See Digital Product Passport, including
 
-* nutrient values, its relation to Daily Recommended Inputs, bio authenticity
 * environmental footprints (air pollution as carbon equivalent, water footprint)
-* geographic history
-* service, knowledge license and every known components
+* geographic provenance of components and processing steps
+* a graph / tree of every known components' details
+* if food:
+  * ingredients, their bio authenticity
+  * nutrient values, their relation to Daily Recommended Inputs
 
 
 
